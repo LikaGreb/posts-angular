@@ -1,0 +1,18 @@
+ul{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 40px;
+    margin-right: 40px;
+    h3{
+        text-align: center;
+    }
+    li{
+    border:1px solid blue;
+    border-radius: 10px;
+    padding:10px;
+    background: rgb(224, 234, 241);
+
+}
+}
